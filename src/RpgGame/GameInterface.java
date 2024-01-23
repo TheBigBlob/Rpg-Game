@@ -18,7 +18,7 @@ public class GameInterface {
            GameInterface.runGame();
         }
     }
-    //bozo
+    //Guineapigs
     public static void runGame() {
         createEnemy.add(new Enemy("Slime", 10, 1, 0));
         createEnemy.add(new Enemy("Goblin", 5, 2, 1));
